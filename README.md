@@ -16,6 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+---
 :man_technologist: About Me :
 I am a Backend Developer from Belarus.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
