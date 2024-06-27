@@ -8,5 +8,7 @@
    <a href="https://t.me/AnsySan">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
    </a>
+</div>
+<div id="badges">
   <img src="https://komarev.com/ghpvc/?username=AnsySanstyle=flat-square&color=blue" alt=""/>
 </div>
