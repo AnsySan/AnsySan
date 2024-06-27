@@ -10,5 +10,5 @@
    </a>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=AnsySanstyle=flat-square&color=blue" alt="Hi"/>
+  <img src="https://komarev.com/ghpvc/?username=AnsySan&style=flat-square&color=blue" alt="Hi"/>
 </div>
