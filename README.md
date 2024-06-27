@@ -25,8 +25,9 @@ I am a Backend Developer from Belarus.
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AnsySan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnsySan)
-:hammer_and_wrench: Languages and Tools :
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+hammer_and_wrench: Languages and Tools :
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
