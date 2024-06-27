@@ -16,7 +16,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
 ---
+
 :man_technologist: About Me :
 I am a Backend Developer from Belarus.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -27,7 +29,9 @@ I am a Backend Developer from Belarus.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-AnsySan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnsySan)
 
----:hammer_and_wrench: Languages and Tools :
+---
+
+:hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
