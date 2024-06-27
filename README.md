@@ -40,5 +40,10 @@ I am a Backend Developer from Belarus.
    <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" alt="Tomcat" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" alt="Yaml" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
