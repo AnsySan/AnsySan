@@ -22,7 +22,7 @@
 :man_technologist: Обо мне :
 Меня зовут Евгений
 
-Я занимаюсь разработкой 9 месяцев. В свободное время решаю задачи по Leetcode и читаю технические статьи.
+Я занимаюсь разработкой 9 месяцев. В свободное время решаю задачи по Leetcode, Codewars и читаю технические статьи.
 - :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-AnsySan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnsySan)
 
 ---
