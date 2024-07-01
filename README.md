@@ -39,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" alt="Tomcat" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" alt="Yaml" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/junit/Junit-original.svg" alt="Junit" width="40" height="40"/>&nbsp;
 </div>
 
 ---
