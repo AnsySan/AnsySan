@@ -43,7 +43,6 @@ I am Java Developer with experience in microservices & event-driven architecture
 :fire: My statistics :
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsySan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
