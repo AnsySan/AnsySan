@@ -12,39 +12,42 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=AnsySan&style=flat-square&color=blue" alt=""/>
   <h1>
- Welcome, Я AnsySan
+ Welcome, I'm Evgeny
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
----
+--- 
 
-:man_technologist: Обо мне :
-Меня зовут Евгений
-
-Я занимаюсь разработкой 9 месяцев. В свободное время решаю задачи по Leetcode, Codewars и читаю технические статьи.
-- :mailbox:Как со мной связаться: [![Telegram Badge](https://img.shields.io/badge/-AnsySan-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AnsySan)
+I am Java Developer with experience in microservices & event-driven architecture (Spring, Kafka, Redis, Postgres, Kubernetes, Cloud, React.js), working in a team of over 10+ engineers on SCRUM methodology. In my free time I solve problems on Leetcode, Codewars and read technical articles.
 
 ---
 
 :hammer_and_wrench: Языки и инструменты :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" alt="Hibernate" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-line-wordmark.svg" alt="Tomcat" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" alt="Yaml" width="40" height="40"/>&nbsp;
-   <img src=https://github.com/devicons/devicon/blob/master/icons/junit/junit-original-wordmark.svg alt="junit" width="40" height="40"/>&nbsp;
-</div>
+
+- Languages: Java
+- Databases: PostgreSQL, Amazon S3, MongoDB, Redis
+- Database Tools: Liquibase
+- Frameworks: Spring Framework, Hibernate
+- Messaging & Streaming: Apache Kafka
+- Cloud Platforms: Amazon Web Services (AWS), Google Cloud Platform (GCP)
+- Containerization & Orchestration: Docker, Kubernetes (K8)
+- CI/CD: Gradle & Maven, Github Actions, Jenkins
+- Search & Analytics: Elasticsearch, Search Algorithms
+- Testing: JUnit, Mockito
+- API Development: External API, REST APIs
+- Other Tools & Concepts: ACID principles, Event-Driven Programming, Scrum, System Architecture Development, Agile methodologies, Asynchronization
 
 ---
 
-:fire: Моя статистика :
+:fire: My statistics :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnsySan&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnsySan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## My Open Source Projects
+- [URL-Shortener]() - Make large links with 40+ chars to 3-4 chars
+- [Pastebin](https://github.com/AnsySan/Pastebin) - Social network where users could post textBlocks & share links on them
+- [InterviemTestTasks]() - My job interview test tasks
