@@ -19,7 +19,7 @@
 
 --- 
 
-I am Java Developer with experience in microservices & event-driven architecture (Spring, Kafka, Redis, Postgres, Kubernetes, Cloud, React.js), working in a team of over 10+ engineers on SCRUM methodology. In my free time I solve problems on Leetcode, Codewars and read technical articles.
+I am Java Developer with experience in microservices & event-driven architecture (Spring, Kafka, Redis, Postgres, Kubernetes, Cloud), working in a team of over 10+ engineers on SCRUM methodology. In my free time I solve problems on Leetcode, Codewars and read technical articles.
 
 ---
 
